@@ -1,2 +1,2 @@
 # wordlist
-A set of wordlist form secList for directory bruteforcing.
+A set of wordlist from secList for directory bruteforcing.
